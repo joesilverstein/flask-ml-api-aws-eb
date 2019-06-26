@@ -1,8 +1,4 @@
 flask==1.0.2
 flask-restful
-chalice
-matplotlib
 sklearn
 numpy
-scipy
-pandas
